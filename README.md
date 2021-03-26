@@ -1,5 +1,5 @@
 <!--###  -->
-## Hi there 👋
+## Hi there 👋 🧑‍🎓
 
 ![Tej Singh Rana's github stats](https://github-readme-stats.vercel.app/api?username=tej-singh-rana&show_icons=true&theme=cobalt&include_all_commits=true&)
 
