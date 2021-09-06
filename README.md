@@ -1,5 +1,13 @@
 <!--###  -->
-## Hi there 👋 🧑‍🎓
+<div>
+  <h2>
+    Hello, I am Tej Singh Rana!! 👋 🧑‍🎓
+    <br/>
+    <img src="https://profile-counter.glitch.me/tej-singh-rana/count.svg"/>
+    <br/>
+    Profile Visits
+  </h2>
+</div>
 
 ![Tej Singh Rana's github stats](https://github-readme-stats.vercel.app/api?username=tej-singh-rana&show_icons=true&theme=cobalt&include_all_commits=true&)
 
